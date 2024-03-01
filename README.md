@@ -9,13 +9,13 @@ Programming is hobby, lifestyle and chilling out.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LifeIsGoodYouKnowWhatIMeanRight)
 
 ### Projects
-- [English for kids](https://ropegxdamn.github.io/english-for-kids/)
-- [Gem puzzle](https://ropegxdamn.github.io/gem-puzzle/)
-- [Tic Tac Toe](https://ropegxdamn.github.io/tic-tac-toe/)
-- [Momentum](https://ropegxdamn.github.io/momentum/)
-- [Webdev](https://ropegxdamn.github.io/web-dev/)
-- [Calculator](https://ropegxdamn.github.io/calculator/)
-- [KANO](https://ropegxdamn.github.io/kano/)
+- [English for kids](https://ropegxdamn.github.io/english-for-kids/) (educational game for kids)
+- [Gem puzzle](https://ropegxdamn.github.io/gem-puzzle/) (fascinating game)
+- [Tic Tac Toe](https://ropegxdamn.github.io/tic-tac-toe/) (React game)
+- [Momentum](https://ropegxdamn.github.io/momentum/) (desktop widget)
+- [Webdev](https://ropegxdamn.github.io/web-dev/) (static website)
+- [Calculator](https://ropegxdamn.github.io/calculator/) (multifunctional app)
+- [KANO](https://ropegxdamn.github.io/kano/) (dynamic website)
 
 ### Languages and Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
