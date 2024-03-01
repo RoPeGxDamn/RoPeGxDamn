@@ -9,13 +9,12 @@ Programming is hobby, lifestyle and
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitrydutin](https://t.me/LifeIsGoodYouKnowWhatIMeanRight))
 
 ### Projects:
-- [English for kids](https://ropegxdamn.github.io/english-for-kids/) (High quality)
-- [Gem puzzle](https://dmitrydutin.github.io/dmitrydutin/gem-puzzle/dist/index.html)
-- [Shelter](https://dmitrydutin.github.io/dmitrydutin/shelter/pages/main/main.html)
-- [Momentum](https://dmitrydutin.github.io/dmitrydutin/momentum/)
-- [Virtual keyboard](https://dmitrydutin.github.io/dmitrydutin/virtual-keyboard/)
-- [Webdev](https://dmitrydutin.github.io/dmitrydutin/webdev/)
-- [Calculator](https://dmitrydutin.github.io/dmitrydutin/calculator/)
+- [English for kids](https://ropegxdamn.github.io/english-for-kids/)
+- [Gem puzzle](https://ropegxdamn.github.io/gem-puzzle/)
+- [Shelter](https://ropegxdamn.github.io/shelter/)
+- [Momentum](https://ropegxdamn.github.io/momentum/)
+- [Webdev](https://ropegxdamn.github.io/web-dev/)
+- [Calculator](https://ropegxdamn.github.io/calculator/)
 
 ### Languages and Tools:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
