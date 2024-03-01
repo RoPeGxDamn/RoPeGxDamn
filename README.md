@@ -1,17 +1,15 @@
 ### Greetings!
 
-I'm Dmitry Dutin, a software engineer based in Minsk, Belarus.   
-In my spare time, I create beautiful and productive applications.
+I'm Roman Petrov, a software engineer based in Minsk, Belarus.   
+Programming is hobby, lifestyle and 
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitrydutin/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitrydutin)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-petrov-99a7262a5)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmitrydutin](https://t.me/LifeIsGoodYouKnowWhatIMeanRight))
 
 ### Projects:
-- [FreeSMI](https://freesmi.herokuapp.com/) (Team project)
-- [Covid dashboard](https://dev-covid-dashboard.netlify.app/) (Team project)
-- [English for kids](https://dmitrydutin-english-for-kids.netlify.app/) (High quality)
+- [English for kids](https://ropegxdamn.github.io/english-for-kids/) (High quality)
 - [Gem puzzle](https://dmitrydutin.github.io/dmitrydutin/gem-puzzle/dist/index.html)
 - [Shelter](https://dmitrydutin.github.io/dmitrydutin/shelter/pages/main/main.html)
 - [Momentum](https://dmitrydutin.github.io/dmitrydutin/momentum/)
