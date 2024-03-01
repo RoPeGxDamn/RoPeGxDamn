@@ -11,7 +11,7 @@ Programming is hobby, lifestyle and
 ### Projects:
 - [English for kids](https://ropegxdamn.github.io/english-for-kids/)
 - [Gem puzzle](https://ropegxdamn.github.io/gem-puzzle/)
-- [Shelter](https://ropegxdamn.github.io/shelter/)
+- [Tic Tac Toe](https://ropegxdamn.github.io/tic-tac-toe/)
 - [Momentum](https://ropegxdamn.github.io/momentum/)
 - [Webdev](https://ropegxdamn.github.io/web-dev/)
 - [Calculator](https://ropegxdamn.github.io/calculator/)
